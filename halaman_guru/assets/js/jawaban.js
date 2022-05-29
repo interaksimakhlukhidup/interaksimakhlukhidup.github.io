@@ -51,7 +51,7 @@ function readlah() {
 
     let jwbfixx = [];
 
-    let jwb1 = ["b", "d", "b", "b", "a", "c", "c", "a", "d", "d"]; // ini ganti lwn kunci jawaban km
+    let jwb1 = ["b", "d", "d", "b", "a", "c", "c", "a", "d", "a"]; // ini ganti lwn kunci jawaban km
     if (kuisfix == "latihan1/") {
         let hhh = `<tr><td class="table-info  tulis" colspan="2">Kunci Jawaban </td>`;
         for (let i = 0; i < jwb1.length; i++) {
@@ -62,7 +62,7 @@ function readlah() {
         jwbfixx = jwb1;
     }
 
-    let jwb2 = ["b", "c", "a", "d", "c", "c", "a", "d", "b", "c"]; // ini ganti lwn kunci jawaban km
+    let jwb2 = ["b", "c", "a", "d", "b", "c", "a", "d", "b", "c"]; // ini ganti lwn kunci jawaban km
     if (kuisfix == "latihan2/") {
         let hhh = `<tr><td class="table-info  tulis" colspan="2">Kunci Jawaban </td>`;
         for (let i = 0; i < jwb2.length; i++) {
