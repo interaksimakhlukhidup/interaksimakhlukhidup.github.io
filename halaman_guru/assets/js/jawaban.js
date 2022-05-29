@@ -51,7 +51,7 @@ function readlah() {
 
     let jwbfixx = [];
 
-    let jwb1 = ["a", "d", "a", "a", "b", "e", "c", "d", "c", "a"]; // ini ganti lwn kunci jawaban km
+    let jwb1 = ["b", "d", "b", "b", "a", "c", "c", "a", "d", "d"]; // ini ganti lwn kunci jawaban km
     if (kuisfix == "latihan1/") {
         let hhh = `<tr><td class="table-info  tulis" colspan="2">Kunci Jawaban </td>`;
         for (let i = 0; i < jwb1.length; i++) {
@@ -62,7 +62,7 @@ function readlah() {
         jwbfixx = jwb1;
     }
 
-    let jwb2 = ["c", "b", "a", "c", "a", "a", "c", "a", "a", "b"]; // ini ganti lwn kunci jawaban km
+    let jwb2 = ["b", "c", "a", "d", "c", "c", "a", "d", "b", "c"]; // ini ganti lwn kunci jawaban km
     if (kuisfix == "latihan2/") {
         let hhh = `<tr><td class="table-info  tulis" colspan="2">Kunci Jawaban </td>`;
         for (let i = 0; i < jwb2.length; i++) {
@@ -73,7 +73,7 @@ function readlah() {
         jwbfixx = jwb2;
     }
 
-    let jwb3 = ["b", "b", "b", "b", "b", "b", "b", "b", "b", "b"]; // ini ganti lwn kunci jawaban km
+    let jwb3 = ["a", "c", "d", "d", "b", "c", "a", "b", "b", "a"]; // ini ganti lwn kunci jawaban km
     if (kuisfix == "latihan3/") {
         let hhh = `<tr><td class="table-info  tulis" colspan="2">Kunci Jawaban </td>`;
         for (let i = 0; i < jwb3.length; i++) {
@@ -84,7 +84,7 @@ function readlah() {
         jwbfixx = jwb3;
     }
 
-    let jwb4 = ["a", "a", "a", "a", "a", "a", "a", "a", "a", "a"]; // ini ganti lwn kunci jawaban km
+    let jwb4 = ["b", "d", "d", "c", "a", "c", "b", "a", "c", "b"]; // ini ganti lwn kunci jawaban km
     if (kuisfix == "latihan4/") {
         let hhh = `<tr><td class="table-info  tulis" colspan="2">Kunci Jawaban </td>`;
         for (let i = 0; i < jwb4.length; i++) {
