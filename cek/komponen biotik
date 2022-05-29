@@ -1,0 +1,75 @@
+	 <div class="card-body text-justify" style="overflow-y:scroll; height: 480px" <div class="card-body text-justify" style="overflow-y:scroll; height: 480px">
+                                    <form name="form" style="padding-left: 20px;">
+                                        <div class="petunjuk">
+                                        <p>
+                                            <br>
+                                                <b>Petunjuk :</b>
+                                        </p>
+                                        <ol style="padding-left: 15px">
+                                            <li class="nomor">Jawablah semua soal dibawah ini.</li>
+                                            <li class="nomor">Soal berupa pilihan ganda.</li>
+                                            <li class="nomor">Jika pilihan kamu benar, maka akan muncul tulisan "<font style="color: green;font-weight: bold;">Jawaban benar</font>".</li>
+                                            <li class="nomor">Jika pilihan kamu salah, maka akan muncul tulisan "<font style="color: red;font-weight: bold;">Jawaban salah</font>".</li>
+                                        </ol>
+                                    </div>
+                                    <br>
+                                        
+                                        <ol>
+                                            <li>
+                                                Hewan pemakan tumbuhan disebut.... ….<br>
+                                                <input type="radio" value="1" name="no1" id="1"/>a. Herbivora <br>
+                                                <input type="radio" value="2" name="no1" id="2"/>b. Karnivora <br>
+                                                <input type="radio" value="3" name="no1" id="3"/>c. Omnivore <br>
+                                                <input type="radio" value="4" name="no1" id="4"/>d. Penggurai<br>
+                                            </li>
+                        
+                                            <div id="jwb1">
+                                                <div id="kotak" style="padding-left:20px;margin-top:1%"><span id="ket"> </span></div>
+                                                <div id="tp">
+                                                    <div class="keteranganjawaban">
+                                                        Herbivora merupakan sebutan untuk hewan pemakan tumbuhan
+                                                </div>
+                                                </div>
+                                            </div>
+                                            <br>
+                        
+                                            <li>
+												Dibawah ini kelompok hewan yang termasuk karnivora adalah…<br>
+                                                <input type="radio" value="1" name="no2" id="5"/>a. Kerbau, bebek<br>
+                                                <input type="radio" value="2" name="no2" id="6"/>b.	Kera, ayam<br>
+                                                <input type="radio" value="3" name="no2" id="7"/>c. Anjing, bebek<br>
+                                                <input type="radio" value="4" name="no2" id="8"/>d.	Elang, kucing<br>
+                                            </li>
+                        
+                                            <div id="jwb2">
+                                                <div id="kotak" style="padding-left:20px;margin-top:1%"><span id="ket2"> </span></div>
+                                                <div id="tp">
+                                                    <div class="keteranganjawaban">
+                                                       Hewan-hewan yang termasuk dalam karnivora adalah elang, kucing, ular, dan lain-lain
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <br>
+                        
+                                            <li>
+                                                 Bakteri saprofit adalah organisme yang dapat mengubah senyawa organik menjadi senyawa anorganik. Kedudukan bakteri tersebut sebagai komponen ....<br>
+                                                <input type="radio" value="1" name="no3" id="9"/>a.	Predator<br>
+                                                <input type="radio" value="2" name="no3" id="10"/>b. Konsumen<br>
+                                                <input type="radio" value="3" name="no3" id="11"/>c. Decomposer<br>
+                                                <input type="radio" value="4" name="no3" id="12"/>d. Produsen<br>
+                                            </li>
+                        
+                                            <div id="jwb3">
+                                                <div id="kotak" style="padding-left:20px;margin-top:1%"><span id="ket3"> jjjjjj</span></div>
+                                                <div id="tp">
+                                                    <div class="keteranganjawaban">
+                                                        menguraikan bahan organik berasal yang telah mati ataupun hasil pembuangan sisa pencernaan menjadi bahan anorganik sederhana merupakan peran dari komponen Decomposer
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </ol>
+                        
+                                        <input type="button" name="submit" onclick="cek()" value="Cek Jawaban" style="text-align:center; color: white; background-color: #414833; width: 150px; border-radius: 7px 7px 7px 7px;">
+                                        <br><br>
+                                    </form>
+                                </div>

@@ -1,0 +1,24 @@
+.petunjuk {
+    padding: 20px;
+    padding-top: 0;
+    overflow: hidden;
+    border-radius: 10px;
+    border: 1px solid #46B29E;
+    border-style: dotted;
+    background-color: #d8f3dc;
+    /* margin-bottom: 5px; */
+}
+
+.keteranganjawaban{
+    padding: 20px;
+    padding-top: 10px;
+    overflow: hidden;
+    border-radius: 10px;
+    border: 1px solid #cfbe25;
+    color:black;
+    border-style: dotted;
+    background-color: #f6ff7c;
+    /* margin-bottom: 5px; */
+}
+
+}

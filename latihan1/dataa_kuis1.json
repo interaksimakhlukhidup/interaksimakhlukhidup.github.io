@@ -1,0 +1,92 @@
+
+[{
+    "soal0": {
+        "soal": "Berikut ini merupakan komponen abiotik penyusun ekosistem  ....",
+        "a": "Semut, Ulat, Kecoak, dan Ular",
+        "b": "Batu, Tanah, Air, dan Udara",
+        "c": "Air, Ulat, Udara, dan Tanah",
+        "d": "Batu, Air, Semut, dan Udara",
+        "benar": "b"
+    }	
+},{
+    "soal1": {
+        "soal": "Organisme ini memperoleh makananya sendiri dengan cara mengubah bahan anorganik menjadi bahan organik menggunakan energi....",
+        "a": "Biotik",
+        "b": "Produsen",
+        "c": "Heterotrof",
+        "d": "Autotrof",
+        "benar": "d"        
+    }        
+},{
+    "soal2": {
+        "soal": "Organisme yang memperoleh makanan  yang telah dibentuk oleh makhluk hidup lain contohnya  kupu-kupu menghisap madu bunga, tikus makan padi, elang makan tikus, dan lain-lain. Organisme tersebut adalah ....",
+        "a": "Biotik",
+        "b": "Fotoautotrof",
+        "c": "Autotrof",
+        "d": "Heterotrof",
+        "benar": "d"
+    }
+},{
+    "soal3": {
+        "soal": "Komponen-komponen  ekosistem seperti udara, tanah, air, dan cahaya termasuk komponen....",
+        "a": "Biotik",
+        "b": "Abiotik",
+        "c": "Konsumen",
+        "d": "Produsen",
+        "benar": "b"
+    }
+},{
+    "soal4": {
+        "soal": "Apabila dalam suatu ekosistem, jumlah karbon dioksida makin berkurang, maka organisme yang pertama-tama akan mengalami dampak negatif yaitu ....",
+        "a": "Produsen",
+        "b": "Konsumen",
+        "c": "Pengurai",
+        "d": "Karnivor",
+        "benar": "a"
+    }
+},{
+    "soal5": {
+        "soal": "Bagian ekosistem yang terdiri dari makhluk hidup seperti tumbuhan dan hewan disebut komponen ....",
+        "a": "Abiotik",
+        "b": "Produsen",
+        "c": "Biotik",
+        "d": "Fotoautotrof",
+        "benar": "c"
+    }
+},{
+    "soal6": {
+        "soal": "Yang berperan sebagai sumber energi utama dalam arus energi suatu ekosistem yaitu .... ",
+        "a": "Pengurai",
+        "b": "Konsumen",
+        "c": "Cahaya Matahari",
+        "d": "Produsen",
+        "benar": "c"   
+    }
+},{
+    "soal7": {
+        "soal": "Aliran energi pada sebuah rantai makanan dimulai dari....",
+        "a": "Tumbuhan Hijau",
+        "b": "Konsumen",
+        "c": "Sinar Matahari",
+        "d": "Pengurai",
+        "benar": "a"
+    }
+},{
+    "soal8": {
+        "soal": "Organisme yang berperan sebagai pengurai dalam ekosistem padang rumput yaitu ....",
+        "a": "Semut",
+        "b": "Serangga",
+        "c": "Rumput",
+        "d": "Bakteri",
+        "benar": "d"
+    }
+},{
+    "soal9": {
+        "soal": "Dalam suatu ekosistem, Jamur dan Bakteri bersifat saprofit berperan sebagai....",
+        "a": "Pengurai",
+        "b": "Produsen",
+        "c": "Predator",
+        "d": "Konsumen",
+        "benar": "a"
+    }
+}]

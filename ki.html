@@ -1,0 +1,65 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="icon" type="image/png" href="img/logo1.png">
+	<title>KI & KD </title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+	@import url('https://fonts.googleapis.com/css2?family=Signika&display=swap');
+
+	*{margin:0;padding:0; font-family: 'Signika', sans-serif;}
+		body{background-size: cover;background-repeat: no-repeat;background-attachment: fixed;background-image:  url(../img/bg.jpg);;} a{right: 1em;}image{padding:40px;}border-bottom:15px solid #007bff}.himpimg{width:20%}.nav{width:25%;float:left;margin:10px auto; padding-right: 15px;}.home{width:30px;margin:1vw}.isi{width:65%;float:left;margin:10px auto;}.pilih button{background-color:#fff;border:none; box-shadow: 0px 5px 20px 0px rgba(212, 212, 212, 0.1);outline:none;cursor:pointer;padding:15px 15px;transition:.3s;font-size:20px;border-radius:5px;color:#867e97}.pilih button:hover{background-color:#e0f1ff;color:#fff}.pilih .tmblAktif{background-color:#007bff;color:#ffff}.pilihan{width:65%;margin-left:100px}.isian{width:100%;min-height:32vw;background-color:#007bff;color:#ffffff;box-shadow:0px 5px 20px 0px rgb(0 81 250 / 10%);border-radius:10px;padding:2%;display:none;overflow:auto;font-size:18px;text-align:justify}.isian li{margin:0% 2% 1% 4%}.kd{margin:1vw}.isiAktif{display:block}.petkon{background-color:#031f4b;cursor:pointer;color:#fff;border-radius:10px;width:20%;font-size:18px;padding:10px}.petkon:hover{background-color:rgba(3,31,75,.61)}.modal{display:none;position:fixed;z-index:1;padding-top:20px;left:0;top:0;width:100%;height:100%;overflow:auto;background-color:#000;background-color:rgba(0,0,0,.4)}.modal-content{background-color:#fefefe;margin:auto;padding-left:20px;padding-right:20px;padding-bottom:20px;padding-top:10px;border:1px solid #888;width:58%}.close{color:#aaa;float:right;font-size:28px;font-weight:bold}.close:hover,.close:focus{color:#000;text-decoration:none;cursor:pointer}@media screen and (max-width:992px){header{height:20%;padding:5px 0 5px 0}.himpimg{width:40%}.home{width:5%}.nav{width:90%}.pilih{margin:0 3vw 0 3vw}.pilih button{font-size:14px;}.pilihan{width:40%;margin-left:35%}.isi{width:92%;margin:0 2vw 0 2vw}.isian{font-size:14px}.modal-content{width:90%}.petkon{font-size:14px;width:25%}}</style>
+</head>
+<body>
+	<script src="jskikd.js"></script>
+
+	<right>
+		<header>
+		
+		</header>
+	</right>
+    <a href=index.html><img src="img/close1.png" class="home"><br></a>
+	<br>
+    <br>
+
+	<div class="nav">
+        
+		<div class="pilih">
+			<button class="pilihan tmblAktif" onclick="bukaIsi(event, 'isi1')">Kompetensi Inti</button><br><br>
+        	<button class="pilihan" onclick="bukaIsi(event, 'isi2')">Kompetensi Dasar</button><br><br>
+            
+        		</div>
+	</div>
+	<div class="isi">
+		<!-- KI-->
+		<div class="isian isiAktif" id="isi1">
+			<center><h1 >Kompetensi Inti</h1></center><br>
+			<ol>
+				
+				<li style="padding-left:1em">Menghargai dan menghayati ajaran agama yang dianutnya.</li>
+                <li style="padding-left:1em">Menghargai dan menghayati perilaku jujur, disiplin, tanggungjawab, peduli (toleransi, gotong royong), santun, percaya diri, dalam berinteraksi secara efektif dengan lingkungan sosial dan alam dalam jangkauan pergaulan dan keberadaannya.</li>
+                <li style="padding-left:1em">Memahami pengetahuan (faktual, konseptual, dan prosedural) berdasarkan rasa ingin tahunya tentang ilmu pengetahuan, teknologi, seni, budaya terkait fenomena dan kejadian tampak mata.</li>
+                <li style="padding-left:1em"> Mencoba, mengolah, dan menyaji dalam ranah konkret (menggunakan, mengurai, merangkai, memodifikasi, dan membuat) dan ranah abstrak (menulis, membaca, menghitung, menggambar, dan mengarang) sesuai dengan yang dipelajari di sekolah dan sumber lain yang sama dalam sudut pandang/teori.</li>
+            </ol>
+		</div>
+		<!--KD-->
+		<div class="isian" id="isi2">
+			
+			<center><h1>Kompetensi Dasar</h1></center><br>
+			<ol>
+                <li style="padding-left:1em">Menganalisis interaksi antara makhluk hidup dan lingkungannya serta dinamika populasi akibat interaksi tersebut.</li>
+                <li style="padding-left:1em">Menyajikan hasil pengamatan terhadap interaksi makhluk hidup dengan lingkungan sekitarnya</li>
+            </ol>
+			</div>
+		</div>
+		
+	</div>
+
+<script data-pagespeed-no-defer>(function(){function f(b){var a=window;if(a.addEventListener)a.addEventListener("load",b,!1);else if(a.attachEvent)a.attachEvent("onload",b);else{var c=a.onload;a.onload=function(){b.call(this);c&&c.call(this)}}};window.pagespeed=window.pagespeed||{};var k=window.pagespeed;function l(b,a,c,g,h){this.h=b;this.i=a;this.l=c;this.j=g;this.b=h;this.c=[];this.a=0}l.prototype.f=function(b){for(var a=0;250>a&&this.a<this.b.length;++a,++this.a)try{document.querySelector(this.b[this.a])&&this.c.push(this.b[this.a])}catch(c){}this.a<this.b.length?window.setTimeout(this.f.bind(this),0,b):b()};
+k.g=function(b,a,c,g,h){if(document.querySelector&&Function.prototype.bind){var d=new l(b,a,c,g,h);f(function(){window.setTimeout(function(){d.f(function(){for(var a="oh="+d.l+"&n="+d.j,a=a+"&cs=",b=0;b<d.c.length;++b){var c=0<b?",":"",c=c+encodeURIComponent(d.c[b]);if(131072<a.length+c.length)break;a+=c}k.criticalCssBeaconData=a;var b=d.h,c=d.i,e;if(window.XMLHttpRequest)e=new XMLHttpRequest;else if(window.ActiveXObject)try{e=new ActiveXObject("Msxml2.XMLHTTP")}catch(m){try{e=new ActiveXObject("Microsoft.XMLHTTP")}catch(n){}}e&&
+(e.open("POST",b+(-1==b.indexOf("?")?"?":"&")+"url="+encodeURIComponent(c)),e.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),e.send(a))})},0)})}};k.criticalCssBeaconInit=k.g;})();
+pagespeed.selectors=["*",".close",".himpimg",".home",".isi",".isiAktif",".isian",".isian li",".kd",".modal",".modal-content",".nav",".petkon",".pilih",".pilih .tmblAktif",".pilih button",".pilihan","body","header"];pagespeed.criticalCssBeaconInit('/ngx_pagespeed_beacon','http://ta.pilkommedia.org/1610131220014/kikd/kikd.html','c_DGtnzDvR','Loiytd09-NA',pagespeed.selectors);</script><noscript class="psa_add_styles"><link rel="stylesheet" type="text/css" href="A.csskikd.css.pagespeed.cf.x1fwCe67A7.css"></noscript><script data-pagespeed-no-defer>(function(){function b(){var a=window,c=e;if(a.addEventListener)a.addEventListener("load",c,!1);else if(a.attachEvent)a.attachEvent("onload",c);else{var d=a.onload;a.onload=function(){c.call(this);d&&d.call(this)}}};var f=!1;function e(){if(!f){f=!0;for(var a=document.getElementsByClassName("psa_add_styles"),c=0,d;d=a[c];++c)if("NOSCRIPT"==d.nodeName){var k=document.createElement("div");k.innerHTML=d.textContent;document.body.appendChild(k)}}}function g(){var a=window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRequestAnimationFrame||window.oRequestAnimationFrame||window.msRequestAnimationFrame||null;a?a(function(){window.setTimeout(e,0)}):b()}
+var h=["pagespeed","CriticalCssLoader","Run"],l=this;h[0]in l||!l.execScript||l.execScript("var "+h[0]);for(var m;h.length&&(m=h.shift());)h.length||void 0===g?l[m]?l=l[m]:l=l[m]={}:l[m]=g;})();
+pagespeed.CriticalCssLoader.Run();</script></body>
+</html>

@@ -1,0 +1,21 @@
+.table {
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+    color: black;
+}
+.tulis{
+    font-weight: bold;
+}
+.benar{
+    background-color: #4dff4d !important;
+}
+.salah{
+    background-color: red !important;
+}
+    @media(max-width: 1000px) {
+    .card{
+        width: fit-content;
+    }
+    
+}

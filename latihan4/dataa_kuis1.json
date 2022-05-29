@@ -1,0 +1,92 @@
+
+[{
+    "soal0": {
+        "soal": "Salah satu upaya yang dapat dilakukan agar air sungai yang keruh dapat digunakan kembali untuk memenuhi kebutuhan sehari-hari yaitu....",
+        "a": "Tidak mengkonsumsi air sungai lagi",
+        "b": "Melakukan penjernihan air",
+        "c": "Mencuci baju disungai dengan sabun",
+        "d": "Membiarkan air sungai sampai jernih sendiri",
+        "benar": "b"
+    }	
+},{
+    "soal1": {
+        "soal": "Pada air sungai yang telah tercemar akan terlihat tanda-tanda....",
+        "a": "Airnya tidak berbau busuk",
+        "b": "Terdapat berbagai jenis fauna",
+        "c": "Airnya jernih dan tidak berwarna",
+        "d": "Ditumbuhi eceng gondok yang subur",
+        "benar": "d"        
+    }        
+},{
+    "soal2": {
+        "soal": "Pengertian pencemaran air yang paling tepat adalah....",
+        "a": "Masuknya makhluk hidup, zat dan energi serta komponen lainnya ke perairan sehingga tidak dapat digunakan",
+        "b": "Masuknya zat dan komponen lain ke perairan yang berasal dari industri sehingga tidak dapat digunakan ",
+        "c": "Masuknya makhluk hidup, zat dan energi yang berasal dari kegiatan manusia ke perairan",
+        "d": "Masuknya zat, energi dan makhluk hidup ke perairan yang menyebabkan berubahnya tatanan perairan akibat kegiatan manusia atau proses alam",
+        "benar": "d"
+    }
+},{
+    "soal3": {
+        "soal": "Berikut ini yang dapat merusak kelestarian lingkungan yaitu ....",
+        "a": "Penghijauan",
+        "b": "Reboisasi",
+        "c": "Sampah plastik",
+        "d": "Sengkedan",
+        "benar": "c"
+    }
+},{
+    "soal4": {
+        "soal": "Peristiwa masuknya zat, energi/komponen lain ke dalam lingkungan udara dinamakan....",
+        "a": "Pencemaran udara",
+        "b": "Pencemaran suara",
+        "c": "Pencemaran air",
+        "d": "Pencemaran tanah",
+        "benar": "a"
+    }
+},{
+    "soal5": {
+        "soal": "....",
+        "a": "Menimbulkan hujan asam",
+        "b": "Pencemaran udara di dalam rumah",
+        "c": "Menipisnya Ozon",
+        "d": "Pencemaran udara di lingkungan sekitar perumahan",
+        "benar": "c"
+    }
+},{
+    "soal6": {
+        "soal": "",
+        "a": "Mengadakan seminar",
+        "b": "Kerja bakti",
+        "c": "Menggunakan alam",
+        "d": "Menghayati alam",
+        "benar": "b"   
+    }
+},{
+    "soal7": {
+        "soal": "Suatu zat yang mengakibatkan terjadinya pencemaran disebut....",
+        "a": "Polutan",
+        "b": "Limbah",
+        "c": "Sampah",
+        "d": "Polusi",
+        "benar": "a"
+    }
+},{
+    "soal8": {
+        "soal": "Tanaman yang bisa dijadikan sebagai indikator terjadinya pencemaran air adalah....",
+        "a": "Semanggi",
+        "b": "Kangkung",
+        "c": "Enceng Gondok",
+        "d": "Teratai",
+        "benar": "c"
+    }
+},{
+    "soal9": {
+        "soal": "Tumbuhan sejenis alang-alang yang di tanam di sekitar perairan bermanfaat untuk mengatasi pencemaran air yang disebabkan oleh....",
+        "a": "Limbah pertanian",
+        "b": "Logam berbahaya",
+        "c": "Limbah minyak",
+        "d": "Limbah rumah tangga",
+        "benar": "b"
+    }
+}]

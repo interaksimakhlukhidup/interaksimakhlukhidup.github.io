@@ -1,0 +1,75 @@
+	 <div class="card-body text-justify" style="overflow-y:scroll; height: 480px" <div class="card-body text-justify" style="overflow-y:scroll; height: 480px">
+                                    <form name="form" style="padding-left: 20px;">
+                                        <div class="petunjuk">
+                                        <p>
+                                            <br>
+                                                <b>Petunjuk :</b>
+                                        </p>
+                                        <ol style="padding-left: 15px">
+                                            <li class="nomor">Jawablah semua soal dibawah ini.</li>
+                                            <li class="nomor">Soal berupa pilihan ganda.</li>
+                                            <li class="nomor">Jika pilihan kamu benar, maka akan muncul tulisan "<font style="color: green;font-weight: bold;">Jawaban benar</font>".</li>
+                                            <li class="nomor">Jika pilihan kamu salah, maka akan muncul tulisan "<font style="color: red;font-weight: bold;">Jawaban salah</font>".</li>
+                                        </ol>
+                                    </div>
+                                    <br>
+                                        
+                                        <ol>
+                                            <li>
+                                                Interaksi yang terjadi antara pohon mangga dengan benalu merupakan contoh peristiwa.....<br>
+                                                <input type="radio" value="1" name="no1" id="1"/>a. Parasitisme<br>
+                                                <input type="radio" value="2" name="no1" id="2"/>b. Rantai makanan<br>
+                                                <input type="radio" value="3" name="no1" id="3"/>c. Komensalisme<br>
+                                                <input type="radio" value="4" name="no1" id="4"/>d. Mutualisme<br>
+                                            </li>
+                        
+                                            <div id="jwb1">
+                                                <div id="kotak" style="padding-left:20px;margin-top:1%"><span id="ket"> </span></div>
+                                                <div id="tp">
+                                                    <div class="keteranganjawaban">
+                                                        Simbiosis paratisme adalah hubungan timbal balik antara dua makhluk hidup, di mana satu pihak dirugikan dan satu pihak diuntungkan. Benalu yg menempel atau hidup di pohon mangga akan mengambil makanan dari pohon tersebut sehingga lama -kelamaan pohon mangga akan kerdil bahkan bisa mati.
+                                                </div>
+                                                </div>
+                                            </div>
+                                            <br>
+                        
+                                            <li>
+                                                Hubungan yang terjadi antara tanaman anggrek dan inangnya adalah simbiosis komensalisme karena ...<br>
+                                                <input type="radio" value="1" name="no2" id="5"/>a. anggrek diuntungkan karena mendapat tempat untuk hidup<br>
+                                                <input type="radio" value="2" name="no2" id="6"/>b.	anggrek dirugikan karena makanan diserap oleh inangnya<br>
+                                                <input type="radio" value="3" name="no2" id="7"/>c. inang dirugikan karena makanan diserap oleh anggrek<br>
+                                                <input type="radio" value="4" name="no2" id="8"/>d.	anggrek tidak diuntungkan<br>
+                                            </li>
+                        
+                                            <div id="jwb2">
+                                                <div id="kotak" style="padding-left:20px;margin-top:1%"><span id="ket2"> </span></div>
+                                                <div id="tp">
+                                                    <div class="keteranganjawaban">
+                                                       Tumbuhan anggrek diuntungkan karena mendapat tempat untuk hidup, sedangkan tumbuhan inangnya tidak dirugikan karena anggrek tidak menyerap sari-sari makanan dari tumbuhan inang.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <br>
+                        
+                                            <li>
+                                                Contoh hubungan antarmakhluk hidup yang membentuk simbiosis mutualisme adalah ...<br>
+                                                <input type="radio" value="1" name="no3" id="9"/>a.	anggrek menempel di pohon durian<br>
+                                                <input type="radio" value="2" name="no3" id="10"/>b. tali putri dengan tumbuhan inangnya<br>
+                                                <input type="radio" value="3" name="no3" id="11"/>c. kupu-kupu dengan bunga pohon mangga<br>
+                                                <input type="radio" value="4" name="no3" id="12"/>d. paku tanduk rusa menempel di pohon sawo<br>
+                                            </li>
+                        
+                                            <div id="jwb3">
+                                                <div id="kotak" style="padding-left:20px;margin-top:1%"><span id="ket3"> jjjjjj</span></div>
+                                                <div id="tp">
+                                                    <div class="keteranganjawaban">
+                                                        Kupu-kupu memperoleh serbu sari dari bunga mangga, sedangkan bagi pohon mangga kupu-kupu membantu penyerbukan untuk menghasilkan buah.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </ol>
+                        
+                                        <input type="button" name="submit" onclick="cek()" value="Cek Jawaban" style="text-align:center; color: white; background-color: #414833; width: 150px; border-radius: 7px 7px 7px 7px;">
+                                        <br><br>
+                                    </form>
+                                </div>

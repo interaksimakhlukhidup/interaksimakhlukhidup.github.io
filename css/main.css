@@ -1,0 +1,71 @@
+/* Google Font - Poppins */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
+/* Main CSS */
+
+*{
+	font-family: 'Poppins';
+}
+
+body{
+	margin: 0;
+	background: #F4F5FA;
+	background-size: cover;
+  	background-repeat: no-repeat;
+ 	 background-attachment: fixed;
+
+  background-image:  url(../img/bg.jpg);
+}
+
+.content{
+	padding: 70px 10%;
+}
+
+.content h2{
+	font-size: 25px;
+	text-align: center;
+	color: rgb(255, 255, 255);
+	margin: 0;
+}
+
+.content .title{
+	font-size: 30px;
+	text-align: center;
+	color: rgb(8, 0, 0);
+}
+
+.content .card .title{
+	color: #333;
+	font-weight: 500;
+}
+
+.content .text{
+	font-size: 20px;
+	text-align: center;
+	color: #888;
+}
+
+.content i{
+	font-size: 50px;
+	text-align: center;
+	display: block;
+	margin: 20px;
+	color: #00cc4e;
+}
+
+.content .flex{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.content .card{
+	background: #FFF;
+	width: 280px;
+	padding: 50px;
+	box-sizing: border-box;
+	margin: 20px;
+	box-shadow: 5px 10px 20px rgba(0,0,0,.1);
+	border-bottom: 5px solid #00cc4e;

@@ -1,0 +1,53 @@
+<form name="form" style="padding-left: 20px;">
+				<ol>
+					<li>
+						Lapisan yang berada di atas bumi adalah lapisan yang mengandung unsur yang tepat untuk kehidupan di bumi. Lapisan uap/gas yang mengelilingi bumi disebut ….<br>
+						<input type="radio" value="1" name="no1" id="1"/>a. Atmosfer <br>
+						<input type="radio" value="2" name="no1" id="2"/>b. Hidrosfer <br>
+						<input type="radio" value="3" name="no1" id="3"/>c. Litosfer <br>
+						<input type="radio" value="4" name="no1" id="4"/>d. Mesosfer <br>
+					</li>
+
+					<div id="jwb1">
+						<div id="kotak" style="padding-left:20px;margin-top:1%"><span id="ket"> </span></div>
+						<div id="tp">
+							Lapisan yang berada di atas bumi adalah lapisan yang mengandung unsur yang tepat untuk kehidupan di bumi. Lapisan uap/gas yang mengelilingi bumi disebut atmosfer
+						</div>
+					</div>
+					<br>
+
+					<li>
+						Berikut ini yang bukan merupakan fungsi utama dari atmosfer adalah ….<br>
+						<input type="radio" value="1" name="no2" id="5"/>a. Mendukung kehidupan makhluk hidup<br>
+						<input type="radio" value="2" name="no2" id="6"/>b.	Melindungi bumi dari radiasi sinar ultraviolet<br>
+						<input type="radio" value="3" name="no2" id="7"/>c.	Melindungi bumi dari meteor dan benda langit lainnya<br>
+						<input type="radio" value="4" name="no2" id="8"/>d.	Menjadi media tanam<br>
+					</li>
+
+					<div id="jwb2">
+						<div id="kotak" style="padding-left:20px;margin-top:1%"><span id="ket2"> </span></div>
+						<div id="tp">
+							Berikut ini yang bukan merupakan fungsi utama dari atmosfer adalah Menjadi media tanam
+						</div>
+					</div>
+					<br>
+
+					<li>
+						Urutan lapisan atmosfer dari bawah hingga atas yang benar adalah ….<br>
+						<input type="radio" value="1" name="no3" id="9"/>a.	Stratosfer-Mesosfer-Troposfer-Termosfer-Eksosfer<br>
+						<input type="radio" value="2" name="no3" id="10"/>b.	Mesosfer-Termosfer-Stratosfer-Eksosfer-Troposfer<br>
+						<input type="radio" value="3" name="no3" id="11"/>c.	Eksosfer-Termosfer-Mesosfer-Stratosfer-Troposfer<br>
+						<input type="radio" value="4" name="no3" id="12"/>d.	Troposfer-Stratosfer-Mesosfer-Termosfer-Eksosfer<br>
+					</li>
+
+					<div id="jwb3">
+						<div id="kotak" style="padding-left:20px;margin-top:1%"><span id="ket3"> jjjjjj</span></div>
+						<div id="tp">
+							Urutan lapisan atmosfer dari bawah hingga atas yang benar adalah Troposfer-Stratosfer-Mesosfer-Termosfer-Eksosfer
+						</div>
+					</div>
+				</ol>
+
+				<input type="button" name="submit" onclick="cek()" value="Cek Jawaban" style="text-align:center; color: white; background-color: #414833; width: 150px; border-radius: 7px 7px 7px 7px;">
+				<br><br>
+			</form>

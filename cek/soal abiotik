@@ -1,0 +1,75 @@
+	 <div class="card-body text-justify" style="overflow-y:scroll; height: 480px" <div class="card-body text-justify" style="overflow-y:scroll; height: 480px">
+                                    <form name="form" style="padding-left: 20px;">
+                                        <div class="petunjuk">
+                                        <p>
+                                            <br>
+                                                <b>Petunjuk :</b>
+                                        </p>
+                                        <ol style="padding-left: 15px">
+                                            <li class="nomor">Jawablah semua soal dibawah ini.</li>
+                                            <li class="nomor">Soal berupa pilihan ganda.</li>
+                                            <li class="nomor">Jika pilihan kamu benar, maka akan muncul tulisan "<font style="color: green;font-weight: bold;">Jawaban benar</font>".</li>
+                                            <li class="nomor">Jika pilihan kamu salah, maka akan muncul tulisan "<font style="color: red;font-weight: bold;">Jawaban salah</font>".</li>
+                                        </ol>
+                                    </div>
+                                    <br>
+                                        
+                                        <ol>
+                                            <li>
+                                                Faktor abiotik yang tidak terpengaruh oleh sinar matahari adalah ....<br>
+                                                <input type="radio" value="1" name="no1" id="1"/>a. Suhu <br>
+                                                <input type="radio" value="2" name="no1" id="2"/>b.	Mineral  <br>
+                                                <input type="radio" value="3" name="no1" id="3"/>c. Kelembapan<br>
+                                                <input type="radio" value="4" name="no1" id="4"/>d. Intensitas Cahaya <br>
+                                            </li>
+                        
+                                            <div id="jwb1">
+                                                <div id="kotak" style="padding-left:20px;margin-top:1%"><span id="ket"> </span></div>
+                                                <div id="tp">
+                                                    <div class="keteranganjawaban">
+                                                        Faktor abiotik yang dipengaruhi oleh sinar matahari yaitu suhu, kelembapan dan intensitas cahaya
+                                                </div>
+                                                </div>
+                                            </div>
+                                            <br>
+                        
+                                            <li>
+                                                Berikut ini yang tidak termasuk komponen abiotik adalah ....<br>
+                                                <input type="radio" value="1" name="no2" id="5"/>a. matahari <br>
+                                                <input type="radio" value="2" name="no2" id="6"/>b.	air<br>
+                                                <input type="radio" value="3" name="no2" id="7"/>c. tanah<br>
+                                                <input type="radio" value="4" name="no2" id="8"/>d.	tumbuhan<br>
+                                            </li>
+                        
+                                            <div id="jwb2">
+                                                <div id="kotak" style="padding-left:20px;margin-top:1%"><span id="ket2"> </span></div>
+                                                <div id="tp">
+                                                    <div class="keteranganjawaban">
+                                                       Matahari, Air, Tanah, Suhu, Udara merupakan komponen abiotik
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <br>
+                        
+                                            <li>
+                                                Contoh gejala alam kejadian pada objek abiotik adalah ....<br>
+                                                <input type="radio" value="1" name="no3" id="9"/>a.	tanah liat berwarna abu-abu<br>
+                                                <input type="radio" value="2" name="no3" id="10"/>b. pelapukan batuan di gurun pasir<br>
+                                                <input type="radio" value="3" name="no3" id="11"/>c. kecambah kacang tumbuh subur<br>
+                                                <input type="radio" value="4" name="no3" id="12"/>d. bunga melati berwarna putih<br>
+                                            </li>
+                        
+                                            <div id="jwb3">
+                                                <div id="kotak" style="padding-left:20px;margin-top:1%"><span id="ket3"> jjjjjj</span></div>
+                                                <div id="tp">
+                                                    <div class="keteranganjawaban">
+                                                        Gejala alam kejadian objek abiotik ialah pelapukan batuan di gurun pasir
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </ol>
+                        
+                                        <input type="button" name="submit" onclick="cek()" value="Cek Jawaban" style="text-align:center; color: white; background-color: #414833; width: 150px; border-radius: 7px 7px 7px 7px;">
+                                        <br><br>
+                                    </form>
+                                </div>
