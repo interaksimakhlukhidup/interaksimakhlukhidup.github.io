@@ -6,7 +6,7 @@
         "b": "Termasuk komponen bersifat hidup yang terdapat dalam ekosistem",
         "c": "Terdiri atas segala jenis tumbuhan, segala jenis hewan, dan manusia",
         "d": "Terdapat berbagai jenis mikroorganisme, jamur, dan ganggang dalam ekosistem",
-        "benar": "c"
+        "benar": "a"
     }	
 },{
     "soal1": {
@@ -15,7 +15,7 @@
         "b": "Produsen",
         "c": "Konsumen",
         "d": "Decomposer",
-        "benar": "b"        
+        "benar": "a"        
     }        
 },{
     "soal2": {
@@ -24,7 +24,7 @@
         "b": "Populasi",
         "c": "Ekosistem",
         "d": "Komunitas",
-        "benar": "b"
+        "benar": "c"
     }
 },{
     "soal3": {
@@ -33,7 +33,7 @@
         "b": "2",
         "c": "3",
         "d": "4",
-        "benar": "a"
+        "benar": "b"
     }
 },{
     "soal4": {
@@ -42,7 +42,7 @@
         "b": "Simbiosis parasitisme, interaksi antara udang yang memakan zooplankton",
         "c": "Simbiosis amensalisme, interaksi antara kepiting yang memakan remis",
         "d": "Simbiosis mutualisme, interaksi antara udang yang mengikuti kepiting",
-        "benar": "c"
+        "benar": "a"
     }
 },{
     "soal5": {
@@ -51,7 +51,7 @@
         "b": "Simbiosis mutualisme",
         "c": "Simbiosis amensalisme",
         "d": "Simbiosis komensalisme",
-        "benar": "a"
+        "benar": "d"
     }
 },{
     "soal6": {
@@ -60,7 +60,7 @@
         "b": "Semua tumbuhan adalah produsen karena semua tumbuhan bisa melakukan fotosintesis",
         "c": "Setiap organisme hanya mempunyai satu interaksi dengan organisme lain dalam satu lingkungan",
         "d": "Herbivora tidak pernah menjadi predator bagi hewan lainnya",
-        "benar": "c"   
+        "benar": "d"   
     }
 },{
     "soal7": {
@@ -78,7 +78,7 @@
         "b": "5 ekor burung",
         "c": "10 ekor tikus",
         "d": "Sinar matahari",
-        "benar": "d"
+        "benar": "a"
     }
 },{
     "soal9": {
@@ -87,7 +87,7 @@
         "b": "Jumlah populasi produsen akan meledak",
         "c": "Konsumen II berubah fungsi menjadi konsumen I",
         "d": "Jumlah dekomposer makin banyak",
-        "benar": "c"
+        "benar": "d"
     }
 },{
     "soal10": {
@@ -114,7 +114,7 @@
         "b": "Komensalisme.",
         "c": "Parasitisme.",
         "d": "Amensalisme.",
-        "benar": "c"
+        "benar": "a"
         }
 },{
     "soal13": {
@@ -123,7 +123,7 @@
         "b": "ekosistem→ populasi → komunitas → individu",
         "c": "individu → komunitas → populasi → ekosistem",
         "d": "individu → populasi → komunitas → ekosistem",
-        "benar": "c"
+        "benar": "d"
         }    
 },{
     "soal14": {
@@ -141,7 +141,7 @@
         "b": "Mengolah limbah industri agar tidak berbahaya",
         "c": "Menggunakan teknik terasering saat bercocok tanam di lahan yang miring",
         "d": "Menciptakan alat-alat yang mencemari lingkungan",
-        "benar": "c"
+        "benar": "d"
         }
 },{
     "soal16": {
@@ -154,29 +154,29 @@
         }
 },{
     "soal17": {
-        "soal": " ....",
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
+        "soal": "Yang merupakan contoh dari populasi adalah....",
+        "a": "Seekor ayam bangkok",
+        "b": "sebatang pohon mangga",
+        "c": "sekelompok burung bangau",
+        "d": "seekor semut rangrang",
         "benar": "c"
         }
 },{
     "soal18": {
-        "soal": "....",
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "benar": "c"
+        "soal": "Hubungan antara kutu rambut dengan manusia adalah contoh dari simbiosis....",
+        "a": "mutualisme",
+        "b": "parasitisme",
+        "c": "komensalisme",
+        "d": "kanibalisme",
+        "benar": "b"
         }
 },{
     "soal19": {
-        "soal": "....",
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "benar": "c"
+        "soal": "Meledaknya populasi ulat hingga memasuki permukiman warga bisa terjadi karena....",
+        "a": "berkurangnya pemangsa ulat",
+        "b": "musim buah sedang berlangsung",
+        "c": "lingkungan kurang bersih",
+        "d": "berkurangnya ular pemangsa burung",
+        "benar": "a"
         }
 }]
