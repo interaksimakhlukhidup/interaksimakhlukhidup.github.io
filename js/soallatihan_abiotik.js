@@ -1,5 +1,5 @@
 var jumlah_benar = 0;
-
+ 
 function nomor1(){
 	if(form.no1.value === ""){
 		document.getElementById("jwb1").hidden = true;
